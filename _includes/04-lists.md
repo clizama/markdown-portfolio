@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. First element of the list
+2. Second element of the list
+3. Third element of the list
